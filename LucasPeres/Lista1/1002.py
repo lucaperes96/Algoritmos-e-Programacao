@@ -1,3 +1,4 @@
+# URL do Enunciado
 # https://www.beecrowd.com.br/judge/pt/problems/view/1002
 
 R = float(input())
